@@ -1,5 +1,7 @@
 # 🌤️ Bot do Clima — Telegram + N8N + OpenWeatherMap
 
+## Desafio Fase 2 FTR - Bot de Clima no Telegram com N8N
+
 Chatbot no Telegram desenvolvido com **N8N** que informa a temperatura atual de qualquer cidade do Brasil em tempo real, consultando a API do [OpenWeatherMap](https://openweathermap.org/).
 
 ---
