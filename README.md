@@ -97,7 +97,7 @@ Faça o download do arquivo [`Bot do Clima - Telegram-fred.json`](./Bot do Clima
 7. Salve com o nome `BotFather - Weather API FRED` (ou o nome que preferir)
 8. Nos nós **Telegram Trigger**, **Telegram - Enviar Temperatura** e **Telegram - Enviar Erro**, selecione essa credencial
 
-Obs: O bot criado neste exercício está disponível em t.me/weather_fred_bot
+Obs: O bot criado neste exercício está disponível em [t.me/weather_fred_bot](https://t.me/weather_fred_bot)
 
 ### OpenWeather API Key (`OPENWEATHER_API_KEY`)
 
