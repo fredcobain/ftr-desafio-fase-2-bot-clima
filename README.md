@@ -71,7 +71,7 @@ Obs: Como o n8n injeta a credencial do OpenWeatherMap — ele pode estar enviand
 
 ### 1. Baixe o arquivo do workflow
 
-Faça o download do arquivo [`Bot do Clima - Telegram-fred.json`](./Bot do Clima - Telegram-fred.json) deste repositório.
+Faça o download do arquivo `Bot do Clima - Telegram-fred.json` deste repositório.
 
 ### 2. Importe no N8N
 
